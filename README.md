@@ -14,4 +14,4 @@
     - **UNIX-like Operating Systems**
       >Currently also studying RH124
     >As I will continue my studies, I will discover more and more languages and technologies that will be added to this list
-- My current goals are to **continue learning**, obtaining an **iternship** and becoming more and more familiar with more advanced concepts.
+- My current goals are to **continue learning**, obtaining an **internship** and becoming more and more familiar with more advanced concepts.
