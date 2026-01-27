@@ -1,5 +1,5 @@
 - Hello, I’m **@callmepillo**
-- At the moment, I'm studying **Automation and Computer Engineering** at **TUIASI University** in my **2**nd year.
+- At the moment, I'm studying **Automation and Computer Engineering** at **TUIASI University** in my **3**nd year.
 - Some of my hobbies are:
     - **Photography**
       >You can check out my flickr page and my bluesky account
