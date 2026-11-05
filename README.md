@@ -16,7 +16,7 @@
       >Currently also studying RH124
 - I love to **tinker**, thus much of my work comes from discovering neat little features about my devices and understanding how they work on the **low-level**.
 - Some projects that represent me:
-    - **NXP Cup 2026 Autonomous Car**
+    - **[NXP Cup 2026 Autonomous Car](https://callmepillo.github.io/nxp-book/book/index.html)**
       >I was responsible with modifying the original firmware of the Pixy2 camera and moving the car control logic into the camera, thus removing the need for a second MCU
     - **SI Drone 2026**
       >A RP2350-based drone controlled via MIT App Inventor
